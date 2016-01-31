@@ -54,7 +54,7 @@
 		logo_m();
 		textAlign(CENTER);
 		text("Marinella Mastrosimone", 25, 100);
-		text("UX Designer", 25, 120);
+		text("Graphic Designer", 25, 120);
 	}
 	function logo_gen(){
 		translate(width/2, height/2);
